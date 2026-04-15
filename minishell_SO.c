@@ -1,11 +1,3 @@
-/*
-Alunos: 
-    Alexandre Moura Caldeira - 202104938
-    Amanda Paulino Franco dos Santos - 202206108
-    Júlia Rodrigues Franco - 202104983
-*/
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
